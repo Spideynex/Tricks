@@ -426,7 +426,7 @@ class Main:
 		print(" [3] Create File")
 		print(" [4] 2008-9 Cloning")
 		print(" [5] 2010-15 Cloning")
-		print(" [6] Press 'E' & Exit Programming 😂")
+		print(" [6] Press 'E' & Maa chut jayegi")
 		print(" [E] Exit Programming\n")
 		HRIDOY =input(" Choose : ")
 		if HRIDOY in ["1", "01"]:
