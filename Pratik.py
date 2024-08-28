@@ -428,15 +428,15 @@ class Main:
 		print(" [6] Press 'E' & Maa chut jayegi")
 		print(" [E] Exit Programming\n")
 		HRIDOY =input(" Choose : ")
-		if Pratik in ["1", "01"]:
+		if HRIDOY in ["1", "01"]:
 			File()
-		if Pratik in ["2", "02"]:
+		if HRIDOY in ["2", "02"]:
 			Public()
-		if Pratik in ["3", "03"]:
+		if HRIDOY in ["3", "03"]:
 			os.system("python Dump.py")
-		if Pratik in ["4", "04"]:
+		if HRIDOY in ["4", "04"]:
 			self.old()
-		if Pratik in ["5", "05"]:
+		if HRIDOY in ["5", "05"]:
 			self.old2()
 			exit()
 		else:
