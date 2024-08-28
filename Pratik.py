@@ -408,7 +408,9 @@ logo = ("""\033[1;32m
 [√] Facebook    :  Pratik Gurung
 [√] Status      :  free mey acha maal 🪦
  
-     PR4T1K TR1CK3R 🪦     
+     PR4T1K TR1CK3R 🪦
+_________________♲︎____________________     
+_______________________________________\033[1;37m""")     
  
 class Main:
 	def __init__(self):
